@@ -1,5 +1,5 @@
 # RealtimeChart
-Realtime chart code sample with Express Js, MongoDB, Socket IO, and ChartJS
+About simple realtime chart with socket.io to parse data in every second, and you can parse any data with successively
 
 ## Install
 
@@ -10,18 +10,18 @@ npm install
 ## Usage
 
 ```
-node app.js
+npm run dev
 ```
 
-It will show output :
+## Features
 
 ```
-Open http://localhost:3000
+1. MVC
+2. Realtime
+3. Middleware
+4. Simple code
 ```
-
-Then open http:://localhost:3000 on your browser.
-
-Tutorial : https://www.codepolitan.com/membuat-realtime-chart-dengan-express-chartjs-mongodb-dan-socket-io-57ce7902a5b95-5
+http://localhost:1337/
 
 ## Result
 
